@@ -1,2 +1,2 @@
-# statsbomb-utils
+# pentas
 Simple functions for plotting relevant informations.
